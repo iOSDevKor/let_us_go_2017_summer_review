@@ -1931,6 +1931,15 @@
 					background: #829bc9;
 				}
 
+			.icon.circle.fa-instagram {
+				background: #d65746;
+				color: #fff;
+			}
+
+				.icon.circle.fa-instagram:hover {
+					background: #d65746;
+				}
+
 			.icon.circle.fa-google-plus {
 				background: #db6b67;
 				color: #fff;
